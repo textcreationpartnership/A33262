@@ -1,0 +1,524 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Canonical states-man's grand argument discuss'd in a dialogue &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33262</idno>
+            <idno type="STC">Wing C445</idno>
+            <idno type="STC">ESTC R3416</idno>
+            <idno type="EEBO-CITATION">13672893</idno>
+            <idno type="OCLC">ocm 13672893</idno>
+            <idno type="VID">101191</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101191)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 841:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Canonical states-man's grand argument discuss'd in a dialogue &amp;c.</title>
+               </titleStmt>
+               <extent>[4], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the assigns of General Ludlow for the edification of the Common-Wealths-Men at Dick's Coffee-House in Fleet-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101191:1"/>
+            <p>THE Canonical Stateſ-man'<hi rend="sup">s</hi> GRAND ARGUMENT DISCUSS'D.</p>
+            <p>In a Dialogue, &amp;c.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Aſſigns of General <hi>Ludlow,</hi> for the Edi<g ref="char:EOLhyphen"/>fication of the Common-Wealths-Men at <hi>Dick</hi>'s Coffee-Houſe in <hi>Fleet-Street,</hi> 1693.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:101191:2"/>
+            <pb facs="tcp:101191:2"/>
+            <head>THE PREFACE.</head>
+            <p>AS <hi>Eaſe</hi> and <hi>Idleneſs</hi> are the Fruitful Parents of more than Ordinary <hi>Off-Springs,</hi> 'twas ſome ſuch generating Principles that gave Birth to a late <hi>Pamphlet</hi> of most Famous Renown. The Author, a Canonical <hi>Boutefew,</hi> who has long ſince ſhook Hands with his Original Vocation of <hi>Preaching</hi> and <hi>Praying,</hi> being indeed, though but a <hi>Pulpit Drone,</hi> yet an abſolute <hi>Jehu</hi> of a <hi>State-Driver,</hi> toucht belike with ſomething more than an <hi>Altar-Coal;</hi> Prerogative and Crown'd Heads the ſublimer Subject of his ſoaring <hi>Dreames,</hi> betwixt a <hi>Zeal Biggotted,</hi> and a <hi>Craz'd Perecranium</hi> has made hard Shift to ſteal ſome few Hours from his Daily and Nightly Darlings, <hi>Whiff</hi> and <hi>Tipple,</hi> to lend this Celebra<g ref="char:EOLhyphen"/>ted Product to the World, which has given it no little Ti<g ref="char:EOLhyphen"/>tillation.</p>
+            <p>I confeſs, 'tis not his <hi>Firſt Birth</hi> of that Kind; many more <hi>Minerva</hi>'s of much the ſame Stamp have formerly been ham<g ref="char:EOLhyphen"/>mer'd from his Fruitful Noddle, the good hard Head of our <hi>Jovial Teemer;</hi> and many a Black <hi>Vulcan,</hi> and Sooty <hi>Cyclops,</hi> call'd from their <hi>Forge</hi> and <hi>Fire,</hi> to lend their neceſſary aid<g ref="char:EOLhyphen"/>ing <hi>Midwifery.</hi> But this last, being the most hugg'd and dandled <hi>Brat,</hi> we think fit to make the Subject of our preſent <hi>Remarques,</hi> a Piece, let me tell you, undoubtedly deſign'd for the <hi>Baſis</hi> of no little <hi>Monumental Glory;</hi> the Author moſt certainly aſpiring to his Name-Sake's <hi>Immortality, viz.</hi> by Eternizing his Fame by an [<hi>Oh Rare</hi> Sam!] like the others, [<hi>Oh Rare</hi> Ben!]</p>
+            <pb facs="tcp:101191:3"/>
+            <p>The ſeveral united Forces that club'd for this Conception, (for no Diſparagement to the reputed <hi>Canonical Dad,</hi> an Offspring of this Strength requires more <hi>Sinew</hi> and <hi>Nerve,</hi> then one Man can ſupply, and therefore is generally <hi>Filius Populi;</hi>) have ſufficiently blazon'd themſelves in ſo audaciouſly impeach<g ref="char:EOLhyphen"/>ing one of the <hi>Prime Miniſters of State</hi> of no leſs then the Higheſt <hi>Treaſon</hi> and <hi>Infidelity,</hi> a Practiſe much uſed in the <hi>Ad-Republican Days,</hi> and therefore not unreaſonably revived by the ſame <hi>Kidney</hi> and <hi>Spirit,</hi> after the laudable Cuſtom of their <hi>Fore-Fathers,</hi> the tickling the <hi>Prince</hi> on one ſide, and wounding the <hi>Miniſtry</hi> on the other, being a known Experi<g ref="char:EOLhyphen"/>enced <hi>Edge-Tool</hi> of the moſt Ingenious <hi>Anarchiſt's.</hi> Howe<g ref="char:EOLhyphen"/>ver this Elaborate <hi>Pen-Work</hi> from ſo doughty a <hi>Crown Cham<g ref="char:EOLhyphen"/>pion</hi> as our <hi>Levitical Loyaltiſt,</hi> and ſo ſeemingly fair a Pillar of the ſupported <hi>Monarchy,</hi> ſet up like <hi>Nebuchadnezzar's Image,</hi> with <hi>Pſaltries</hi> and <hi>Timbrels</hi> playing, and the Popular Knees all bending before it; 'tis worth our while to enquire, both who are the <hi>Songſters,</hi> and what the <hi>Chorus;</hi> and there<g ref="char:EOLhyphen"/>fore, I hope, my <hi>Reader</hi> will not diſaccept of this ſmall <hi>Sup<g ref="char:EOLhyphen"/>plement,</hi> by way of a neceſſary Illuſtration, to the profoun<g ref="char:EOLhyphen"/>der Depths of that prodigious <hi>Maſter-Stroke.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:101191:3"/>
+            <sp>
+               <speaker>GOOSILION.</speaker>
+               <lg>
+                  <l>OF old e'er half Time's Glaſs was run,</l>
+                  <l>when <hi>Jove</hi> the Sire, and <hi>Mars</hi> the Son,</l>
+                  <l>With all their jolly Kin above</l>
+                  <l>The Heavenly <hi>Family of Love,</hi>
+                  </l>
+                  <l>As Records tell in <hi>Heathen</hi> Letter</l>
+                  <l>Were Gods of <hi>Rome</hi> for want of better;</l>
+               </lg>
+               <lg>
+                  <l>'Twas then when <hi>Vandal</hi> and grim <hi>Goth,</hi>
+                  </l>
+                  <l>With more than <hi>Hannibal</hi>'s dire Oath,</l>
+                  <l>
+                     <hi>Rome</hi>'s Foe, well nigh, by Thunder hurl'd</l>
+                  <l>Had tam'd the Miſtreſs of the World,</l>
+                  <l>Pent in her almoſt total Fall</l>
+                  <l>Within her narrow Capitol-Wall;</l>
+                  <l>Short Bounds for her no Bar late found,</l>
+                  <l>But elbow'd juſtled Empires round.</l>
+                  <l>'Twas here, when her laſt All at Stake,</l>
+                  <l>Her Foes had but one puſh to make;</l>
+                  <l>And that ſo near the laſt dire ſtroke,</l>
+                  <l>As if by all her Gods forſook,</l>
+                  <pb n="2" facs="tcp:101191:4"/>
+                  <l>Her own great <hi>Jove</hi> had took a Nap</l>
+                  <l>So ſound in ſome new <hi>Danae</hi>'s Lap,</l>
+                  <l>That all his Mortal Charge neglected,</l>
+                  <l>Left his own Capitol unprotected:</l>
+                  <l>When, loe, kind Chance, more tender-hearted</l>
+                  <l>Than all her Guardian Pow'rs, departed,</l>
+                  <l>This Miracle of Safety ſtarted.</l>
+                  <l>An humble Goſling's Neſt, in Story</l>
+                  <l>More fam'd than all her Eagles Glory;</l>
+                  <l>Thoſe Capitol Centinels ſhrill Cackle</l>
+                  <l>Retriev'd loſt <hi>Rome</hi> from foreign Shackle.</l>
+                  <l>Thus reſcu'd State from Chains got looſe;</l>
+                  <l>The Fame of Nation-ſaving Gooſe</l>
+                  <l>Sounded ſo high, and rung ſo ſhrill,</l>
+                  <l>That wondring Ages talk on't ſtill.</l>
+                  <l>But 'mongſt the ſtill freſh Trumps that ſound</l>
+                  <l>Theſe long-neck'd Champions ſo renown'd,</l>
+                  <l>A certain Bard of <hi>Britiſh</hi> Nation</l>
+                  <l>Paid Gooſe profoundeſt Veneration:</l>
+                  <l>The Foes of Nations down to trample,</l>
+                  <l>Set vigilant Gooſe his great Example;</l>
+                  <l>Gooſe, Guardian, Patriot and Defender,</l>
+                  <l>Style none too great, nor name too tender;</l>
+                  <l>And when in <hi>England</hi> s equal danger,</l>
+                  <l>To St. <hi>Jago</hi> plots no ſtranger,</l>
+                  <pb n="3" facs="tcp:101191:4"/>
+                  <l>He ſaw the Pilgrim-Troops advancing,</l>
+                  <l>To <hi>Babylonian</hi> Tymbrels dancing;</l>
+                  <l>Foreſaw the dark Cabals deſigning,</l>
+                  <l>With Rights and Liberties undermining,</l>
+                  <l>Aſſaulting Popery, Capitol ſhaking;</l>
+                  <l>Then like a popular Goſling waking,</l>
+                  <l>With more than Emulation fired,</l>
+                  <l>By tranſmigrating Gooſe inſpired,</l>
+                  <l>To break the Enemies toils and tackle,</l>
+                  <l>Set up his <hi>Julian</hi>-Larum Cackle,</l>
+                  <l>Renown'd by this prodigious Piece,</l>
+                  <l>(Though, troth, it coſt his Back a Fleece)</l>
+                  <l>Chuckled and tickled with Applauſe,</l>
+                  <l>At every little ſtarting Cauſe,</l>
+                  <l>He cackles o'er and o'er agen:</l>
+                  <l>So nimble is a running Pen.</l>
+               </lg>
+               <lg>
+                  <l>But this Canonical State-Faber,</l>
+                  <l>His greateſt Work and nobleſt Labour,</l>
+                  <l>Was a late Pamphlet of Renown</l>
+                  <l>As has fill'd every Tongue in Town;</l>
+                  <l>The Author ſo admir'd, ſo courted,</l>
+                  <l>Till elevated and tranſported</l>
+                  <l>With more than ſtrutting Peacock-pride,</l>
+                  <l>With homely Houſhold-drudge by 's ſide,</l>
+                  <pb n="4" facs="tcp:101191:5"/>
+                  <l>A Thing call'd Spouſe, to join i'th'Quire,</l>
+                  <l>One day by ſooty ſea-coal fire,</l>
+                  <l>He thus began himſelf t' admire.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Gooſilion.</speaker>
+               <l>Ah, Child, what ſecret Joys I find</l>
+               <l>To ſee th' applauding World ſo kind.</l>
+               <l>Kind and applauding! Yes, tis true;</l>
+               <l>But what's that more than my juſt due.</l>
+               <l>How can they pay me over-meaſure,</l>
+               <l>In the return for ſuch a Treaſure!</l>
+            </sp>
+            <sp>
+               <speaker>Gooſiliana.</speaker>
+               <l>Nay, hold, my Dear, make no ſuch haſte</l>
+               <l>In praiſing the kind World too faſt.</l>
+               <l>Kind! 'Pray, what Recompenſe has't made you,</l>
+               <l>When aery Praiſe is all't has paid you?</l>
+               <l>Are empty ſounds of ſo much value,</l>
+               <l>As can with all your Sufferings tally!</l>
+            </sp>
+            <sp>
+               <speaker>Gooſilion.</speaker>
+               <l>True, an ungrateful World we ſerve,</l>
+               <l>Where naked Vertue's doom'd to ſtarve.</l>
+               <pb n="5" facs="tcp:101191:5"/>
+               <l>I muſt confeſs I once was proffer'd,</l>
+               <l>Forſooth, in part of Payment offer'd,</l>
+               <l>Only Four hundred pound a-year;</l>
+               <l>A paltry Sum.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſiliana.</speaker>
+               <l>And cou'd my Dear</l>
+               <l>Refuſe Four hundred pound a Year?</l>
+            </sp>
+            <sp>
+               <speaker>Gooſilion.</speaker>
+               <l>Four hundred! Ay, at this good ſeaſon,</l>
+               <l>A triffling ſum quite out of reaſon.</l>
+               <l>Beſides, think how refus'd, and what?</l>
+               <l>A drudging Benefice, God wot,</l>
+               <l>Incumbred with the Toil of Teaching;</l>
+               <l>And, Child, thou know'ſt I ne'er lov'd preaching.</l>
+               <l>Beſides, my Sufferings, Dear Chick,</l>
+               <l>Thou know'ſt deſerve a Biſhoprick.</l>
+               <l>And think'ſt thou I have ſo poor a Spirit,</l>
+               <l>As to deſcend beneath my Merit?</l>
+               <l>What if th' ungrateful World forget</l>
+               <l>How much they're in my <hi>Julian</hi>'s Debt.</l>
+               <l>Nor is't my fault: How have I threſh'd</l>
+               <l>To keep their Memories refreſh'd:</l>
+               <pb n="6" facs="tcp:101191:6"/>
+               <l>Have writ, and writ, double and treble</l>
+               <l>Whole Volumes of Republick Scribble.</l>
+               <l>And if this laſt home-Stroke don't win 'em,</l>
+               <l>I muſt conclude the Devil's in 'em.</l>
+               <l>Had I writ half ſo much, and tried</l>
+               <l>My dint of Pen on th'other ſide;</l>
+               <l>My Labours and my Pains rewarded,</l>
+               <l>I had been reſpected and regarded:</l>
+               <l>The good old Gentleman, I wis,</l>
+               <l>Had ſent me a Cardinal's Cap e'er this.</l>
+               <l>But thus to ſerve Ungrates! Alas,</l>
+               <l>Fool that I was; — but let that paſs.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſiliana.</speaker>
+               <l>If thou haſt no Reward; for ſhame</l>
+               <l>Why wouldſt thou play a loſing Game?</l>
+               <l>Nay, Time was, when, to thy undoing,</l>
+               <l>Thou run'ſteven deſperate into Ruine:</l>
+               <l>Remember <hi>Julian,</hi> when no ſtranger</l>
+               <l>To all thy too apparent danger,</l>
+               <l>The certain Miſchiefs wou'd befall thee,</l>
+               <l>And <hi>Molock</hi> hands prepared to maul thee,</l>
+               <l>Inſpired with move than Courage doughty,</l>
+               <l>How durſt thou raiſe ſuch ſtorms about thee?</l>
+               <pb n="7" facs="tcp:101191:6"/>
+               <l>Expoſe thy ſelf to all the Rage</l>
+               <l>Of ſuch an Iron-Tory-Age!</l>
+               <l>The hardeſt heart of Stone muſt melt,</l>
+               <l>Even but to think what Pains thou 'ſt felt.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſilion.</speaker>
+               <l>Fye, Chicken, how can'ſt talk ſo odly,</l>
+               <l>To put this Queſtion to the Godly!</l>
+               <l>Pains, did ſt thou ſay! No, Lady mine,</l>
+               <l>Raptures and Extaſie divine.</l>
+               <l>What Tongue, what Eloquence can paint</l>
+               <l>The Pleaſures of a ſuffering Saint!</l>
+               <l>Through every Vein, ane every Arter'</l>
+               <l>The Titillations of a Martyr.</l>
+               <l>Think'ſt thou the Militants of old</l>
+               <l>At Fires, and Stakes, and VVracks ſo bold;</l>
+               <l>Cou'd the hard Gauntlet run ſo often,</l>
+               <l>VVere there not inward Sweets to ſoften?</l>
+               <l>VVhen pain buys pleaſure, who can traffick</l>
+               <l>Too high for Joys ſo much Seraphick,</l>
+               <l>To hazard Fortune, Life, and all,</l>
+               <l>Too poor the venture, price too ſmall.</l>
+               <l>I tell thee, cou'd this mortal Mould</l>
+               <l>Outlive the Patriarchs of old,</l>
+               <pb n="8" facs="tcp:101191:7"/>
+               <l>Out-number Hundreds with the Crow,</l>
+               <l>And even <hi>Methuſ'lem</hi>'s Beard out-grow;</l>
+               <l>The dear remembrance, pleaſing thought</l>
+               <l>Of al lmy Sufferings cheaply bought,</l>
+               <l>VVith their great Cauſe together join'd;</l>
+               <l>Are Contemplations ſo refin'd,</l>
+               <l>As even my aged Snow ſhou'd warm;</l>
+               <l>Not <hi>Mahomet</hi>'s Heav'n my equal Charm:</l>
+               <l>His thouſand Years tumultuous Bliſs,</l>
+               <l>In the Embrace of large-eyed Miſs,</l>
+               <l>Nor half, not half my Paradice.</l>
+               <l>Thou can'ſt not think what heartning Cordial</l>
+               <l>Supports us Saints o'er fiery Ordeal;</l>
+               <l>Nor can'ſt thou gueſs what Charms invite us.</l>
+               <l>VVhat ſay'ſt t' our elder Brother <hi>Titus,</hi>
+               </l>
+               <l>That <hi>Proto</hi>-Martyr, Heart of Oak,</l>
+               <l>The tougheſt Oracle e'er ſpoke,</l>
+               <l>That great Original of Glory,</l>
+               <l>The famouſeſt that e'er ſwell'd Story!</l>
+               <l>That bold, no flincher, conſtant ſtill</l>
+               <l>To <hi>bloody Pilgrim</hi> and <hi>Black-bill.</hi>
+               </l>
+               <l>Think'ſt thou his Flogging. Gaol, or Pillory,</l>
+               <l>Or all the battering Artillery</l>
+               <l>From <hi>Obſervator</hi>'s backſide Favour</l>
+               <l>Cou'd damp that hardy Nation-ſaviour!</l>
+               <pb n="9" facs="tcp:101191:7"/>
+               <l>Fines, Priſons, Dungeons, or Strapado</l>
+               <l>E're cow that valiant <hi>Rhod'montado.</hi>
+               </l>
+               <l>Think'ft thou ſore ſhoulders, or Eggs rotten</l>
+               <l>Anſwer the Sweets o'th'Fame h<g ref="char:punc">▪</g>has gotten.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſiliana.</speaker>
+               <l>No more, no more, I ſtand convinced:</l>
+               <l>No wonder now thou'ſt never winced.</l>
+               <l>Oh, Child, thou plead'ſt thy ſuffering Caſe</l>
+               <l>VVith ſo much Charm and ſuch a Grace;</l>
+               <l>With that bewitching Face and Air,</l>
+               <l>Haſt painted Martyrdom ſo fair;</l>
+               <l>Thy Fame ſo great, thy Glory ſuch,</l>
+               <l>My Dear, I envy thee ſo much,</l>
+               <l>Thy Nine-tail Cat and trolling Cart,</l>
+               <l>I vow I cou'd e'en act thy Part;</l>
+               <l>But that thou know'ſt I have one Leg ſhorter,</l>
+               <l>A little failing in low'r Quarter:</l>
+               <l>And t'hop and limp behind the Tumbler,</l>
+               <l>Wou'd but perform it like a Fumbler;</l>
+               <l>Elſe, were it not for that Miſchance,</l>
+               <l>I ſwear I cou'd e'en lead thy Dance.</l>
+               <l>But (hang't) let's leave theſe ſadder Stories,</l>
+               <l>Quit cloudy Scenes for ſmiling Glories:</l>
+               <pb n="10" facs="tcp:101191:8"/>
+               <l>Thanks Heav'n thoſe ſcorching Dog-days done,</l>
+               <l>Thou liveſt beneath a gentler Sun.</l>
+               <l>Come, man, bear up, Rewards will come</l>
+               <l>And pay thee in a lumping Sum.</l>
+               <l>The Royal Cauſe ſo great Supporter,</l>
+               <l>Ne'er fear thou'rt cut out for a Courtier.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſillion.</speaker>
+               <l>The Royal Cauſe! Poor Innocence;</l>
+               <l>Think'ſt thou we write for Crown's Defence?</l>
+               <l>
+                  <hi>Dimocks</hi> and Champions for Kings?</l>
+               <l>No, Chicken, we know better things.</l>
+               <l>'Tis true, that Piece ſo gaudy dreſt</l>
+               <l>Looks high that way; but there's the Jeſt.</l>
+               <l>As fair a Glance does that way roll,</l>
+               <l>Look through't, thou'lt find a deeper ſoul.</l>
+               <l>Though Royal Title only ſtated,</l>
+               <l>For Cauſe Republick calculated;</l>
+               <l>For in the ſame defenſive ſtreſs</l>
+               <l>The ſtrength and hold of Crowns we preſs;</l>
+               <l>Don't we without diſtinction ſtrike</l>
+               <l>A full home blow, and plead alike</l>
+               <l>All Pow'r whate'er, o'th'up'moſt hand,</l>
+               <l>By <hi>Right</hi> and <hi>Heav'n</hi> ſupported ſtand.</l>
+               <pb n="11" facs="tcp:101191:8"/>
+               <l>And ſo poor honeſt <hi>Maſſanello</hi>
+               </l>
+               <l>Was three days Sovereign Hail-fellow.</l>
+               <l>
+                  <hi>Wat Tyler</hi> and <hi>Jack Straw,</hi> poor Vermine,</l>
+               <l>Had Fate but dreſt in Roval Ermine,</l>
+               <l>Had born the Royal Stamp as fair</l>
+               <l>As dull Deſcent to th' hundredth Heir.</l>
+               <l>If ſuch poor Tools had nought to fear;</l>
+               <l>Oh, what a brave occaſion's here!</l>
+               <l>Oh, what dear Harbour! what ſafe ſleeping</l>
+               <l>For <hi>Plato Redivive</hi> to creep in?</l>
+               <l>For a new bold <hi>Titanian</hi> Race</l>
+               <l>To brave the tireſome <hi>Jove</hi> t'his Face;</l>
+               <l>His Throne to ſeize, and Thunder grapple,</l>
+               <l>And hold by Tenure ſtout and ſtaple;</l>
+               <l>Sceptre's to break, and Crowns to bow,</l>
+               <l>To ſet th' old dear State-hands to plough.</l>
+               <l>The very Thought a Charm ſo ſoft,</l>
+               <l>As bears my raviſh'd Soul aloft,</l>
+               <l>Till it throws off the ſullen Cloud</l>
+               <l>Of forty years Monarchick Load,</l>
+               <l>And in our once, all bright diſplay,</l>
+               <l>Looks back to <hi>England</hi>'s Glorious Day.</l>
+            </sp>
+            <pb n="12" facs="tcp:101191:9"/>
+            <sp>
+               <speaker>Gooſiliana.</speaker>
+               <l>Nay, then it has a Soul indeed,</l>
+               <l>If for that mighty Work decreed.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſilion.</speaker>
+               <l>Yes, Child, this Birth for vaſt Deſign</l>
+               <l>Was help'd by greater Heads than mine,</l>
+               <l>State-mongers, Whiſperers, Writers, Talkers,</l>
+               <l>From Coffe-<hi>Dicks</hi> to Lobby-walkers.</l>
+               <l>All Politicks and Cabals reſulted,</l>
+               <l>And every Oracle conſulted.</l>
+               <l>All Hands to ſpur the work a-gallop</l>
+               <l>From poor <hi>T. D.</hi> to Counſellor —</l>
+               <l>And if it fail the work Divine,</l>
+               <l>Heav'n knows it is no Fault of mine.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſiliana.</speaker>
+               <l>Oh, Child, I can't but wondring ſit</l>
+               <l>To think o' th'reach of Humane Wit,</l>
+               <l>How high thy ſoaring Soul can climb,</l>
+               <l>A Graſp and Fathom ſo ſublime!</l>
+            </sp>
+            <pb n="13" facs="tcp:101191:9"/>
+            <sp>
+               <speaker>Gooſilion.</speaker>
+               <l>Ay, my ſweet Spouſe, this Maxim learn,</l>
+               <l>Great Machines ſtill great Weights muſt turn.</l>
+               <l>This ſtudied Piece has yet more in it;</l>
+               <l>Conſider, Child, the critick minute,</l>
+               <l>The hour when hatcht, the day when printed,</l>
+               <l>Then gueſs for what high Service minted;</l>
+               <l>A politick State Shooing-horn</l>
+               <l>To gain a Point and ſerve a Turn:</l>
+               <l>Juſt in the nick, by manage nice,</l>
+               <l>Preſented round no leſs than twice,</l>
+               <l>About to Senate-Members bandied.</l>
+               <l>When <hi>Abjuration-Oath</hi> was bandied.</l>
+               <l>Dear Abjuration, if turn'd Trump,</l>
+               <l>The beſt Republick-Card, ſince Rump;</l>
+               <l>A cutting Tool of edge more keen</l>
+               <l>Than ev'n by'ts Founders e'er foreſeen.</l>
+               <l>An Embrio, which to Life but hatcht,</l>
+               <l>Had all our glorious Work diſpatcht:</l>
+               <l>For when one kind incloſing Fold</l>
+               <l>Cou'd Sheep and Goat united hold;</l>
+               <l>Both lull'd and huſht together kept,</l>
+               <l>And under Royal Cedar ſlept;</l>
+               <pb n="14" facs="tcp:101191:10"/>
+               <l>This Scourge for <hi>Jacobite</hi>-ſhoulders plotted</l>
+               <l>With all its Thongs of Steel, ſo knotted,</l>
+               <l>The cover'd Embers had unraked,</l>
+               <l>And all the ſleeping Dudgeon waked;</l>
+               <l>Fated for troubled State turmoiling,</l>
+               <l>And ſetting hot mad Blood a boiling;</l>
+               <l>In ſhort, a Maſter-piece of Art</l>
+               <l>To <hi>Job</hi>'s old <hi>Tempter</hi> Second Part.</l>
+               <l>
+                  <hi>Touch em to th'quick in that ſoft place,</hi>
+               </l>
+               <l>
+                  <hi>Thou'lt find theyll curſe thee to thy face.</hi>
+               </l>
+               <l>Had that great Birth but got the day,</l>
+               <l>Then, then was our great Game to play.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſiliana.</speaker>
+               <l>T'enlighten my poor Intellectual</l>
+               <l>Thou'ſt read a Lecture ſo effectual,</l>
+               <l>That give me leave to own my Pride</l>
+               <l>To ſit by my <hi>Gamaliel</hi>'s ſide.</l>
+               <l>And to reward thy burning Zeal,</l>
+               <l>And puſhing<g ref="char:punc">▪</g> hand, for Common-weal:</l>
+               <l>What though no fair Prelatick Dawn</l>
+               <l>From Mitre, and a ſlieve of Lawn,</l>
+               <l>Thy radiant Lorded Brow entwine;</l>
+               <l>Yet ſtill ſome Beams of Comfort ſhine.</l>
+               <pb n="15" facs="tcp:101191:10"/>
+               <l>The Brethren, Child, I underſtand</l>
+               <l>Are lending thee their helping Hand:</l>
+               <l>A Purſe, my Deareſt, a kind Lift,</l>
+               <l>Like truſty <hi>Roger</hi>'s New-years Gift.</l>
+            </sp>
+            <sp>
+               <speaker>Gooſilion.</speaker>
+               <l>Yes, my dear Child, I hear a humming</l>
+               <l>Of Comfortable <hi>Guineas</hi> coming:</l>
+               <l>A kind Collection, Girl—but mum!</l>
+               <l>In better Time it ne'er cou'd come:</l>
+               <l>For let me whiſper in thy Ear,</l>
+               <l>Claret, divine, bleſt Claret's dear;</l>
+               <l>Claret, that I may juſtly call</l>
+               <l>My Saint, my Miſtreſs, Idol, All,</l>
+               <l>My Study, Learning, <hi>Ariſtotle;</hi>
+               </l>
+               <l>And more than Bible, Pipe and Bottle.</l>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
